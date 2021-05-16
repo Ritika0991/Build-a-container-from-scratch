@@ -10,8 +10,10 @@ To run the container,
 
 gcc container.c
 
-./a.out <hostname> <veth-pair> <path-to-rootfs> # You need to run this command with root privileges and <veth-pair> is just a number which can be anything 2,3,4. 
+./a.out hostname veth-pair-num path-to-rootfs # You need to run this command with root privileges and <veth-pair> is just a number which can be anything 2,3,4. 
                                                 # sample usage is ./a.out jane 2 /path/to/rootfs
- If you want to run two containers then have separate copies of root file system and pass veth-pair argument at difference of 2. If you are using number 2 for one container, then you can't use 3 for other container. You should use only even numbers, i.e 2,4,6,etc and different for every container you want to fire.
+
+
+If you want to run two containers then have separate copies of root file system and pass veth-pair argument at difference of 2. If you are using number 2 for one container, then you can't use 3 for other container. You should use only even numbers, i.e 2,4,6,etc and different for every container you want to fire.
   
-  It will spawn a shell that will run in separate network, mount, PID and UTS namespaces.
+It will spawn a shell that will run in separate network, mount, PID and UTS namespaces.
