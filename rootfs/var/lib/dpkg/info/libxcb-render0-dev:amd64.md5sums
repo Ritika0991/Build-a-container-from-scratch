@@ -1,0 +1,6 @@
+296bb12e4c86165d315e64cc51514e13  usr/include/xcb/render.h
+803f40b558b07a14340a0b5a547b39c8  usr/lib/x86_64-linux-gnu/libxcb-render.a
+1c02170313fbd3b1ed5c5b3c74fbbb16  usr/lib/x86_64-linux-gnu/pkgconfig/xcb-render.pc
+8fc8d633ca6851badf2c98fe1cf8ebe7  usr/share/doc/libxcb-render0-dev/changelog.Debian.amd64.gz
+6b9a2dbb0f848de8eb0b138ef4066d09  usr/share/doc/libxcb-render0-dev/changelog.Debian.gz
+360fadb0d222af6607a189d435e3a9f3  usr/share/doc/libxcb-render0-dev/copyright

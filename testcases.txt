@@ -1,0 +1,19 @@
+#For testing new mount and PID namespace
+ps
+#For testing new uts namespace
+hostname
+#For testing new network namespace
+From container /usr/bin/python /home/server.py
+From host python3 client.py
+#For testing cgroups
+cd /home
+gcc memHungry.c
+./a.out
+#For testing container isolation
+Run from both containers /usr/bin/python server.py
+Run from host python3 client.py
+
+#Work done before running container.c
+mkdir /sys/fs/cgroup/memory/demo_mem
+echo "104857600" > /sys/fs/cgroup/memory/demo_mem/memory.limit_in_bytes
+echo "0" > /sys/fs/cgroup/memory/demo_mem/memory.swappiness

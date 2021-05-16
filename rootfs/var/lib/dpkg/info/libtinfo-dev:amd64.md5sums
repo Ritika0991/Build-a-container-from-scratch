@@ -1,0 +1,6 @@
+956131e1b6a418e783a0953ea303d204  usr/lib/valgrind/ncurses.supp
+63e6eb4a11cc94e1f8f3f31ed84afcad  usr/lib/x86_64-linux-gnu/libtermcap.so
+d6cb38d336b4d9e93e55d0fb57b41daf  usr/lib/x86_64-linux-gnu/libtic.a
+ccd97673b3fc755789b5f9002d40dd9c  usr/lib/x86_64-linux-gnu/libtinfo.a
+4e3f33878ec0ed3dc930d2fc1b8f946a  usr/lib/x86_64-linux-gnu/pkgconfig/tic.pc
+cc83a3b8fb840dae08e6286919f7ca5c  usr/lib/x86_64-linux-gnu/pkgconfig/tinfo.pc

@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libelfg0
+/usr/share/doc/libelfg0/changelog.Debian.gz
+/usr/share/doc/libelfg0/changelog.gz
+/usr/share/doc/libelfg0/README.gz
+/usr/share/doc/libelfg0/copyright
+/usr/share/locale
+/usr/share/locale/de
+/usr/share/locale/de/LC_MESSAGES
+/usr/share/locale/de/LC_MESSAGES/libelf.mo
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libelf.so.0.8.13
+/usr/lib/x86_64-linux-gnu/libelf.so.0

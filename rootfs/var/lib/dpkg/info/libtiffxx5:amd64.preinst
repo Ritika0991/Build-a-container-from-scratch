@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+if [ -h /usr/share/doc/libtiffxx5 ]; then
+  rm -f /usr/share/doc/libtiffxx5
+fi

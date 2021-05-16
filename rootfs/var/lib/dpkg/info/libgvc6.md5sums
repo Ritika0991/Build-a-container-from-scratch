@@ -1,0 +1,13 @@
+693444f457d376a576025b3257638f83  usr/lib/graphviz/libgvplugin_core.so.6.0.0
+c05be0d996d79be7e6214dee08619663  usr/lib/graphviz/libgvplugin_dot_layout.so.6.0.0
+947249caa49eb975202947bbfb600cde  usr/lib/graphviz/libgvplugin_gd.so.6.0.0
+4db079fea6e26f30ca5dc66762475261  usr/lib/graphviz/libgvplugin_neato_layout.so.6.0.0
+ce2ef0f948ab8c019e85fdc496683f7e  usr/lib/graphviz/libgvplugin_pango.so.6.0.0
+9a27132ed4bba9b2e6f7e7348ccdfb17  usr/lib/graphviz/libgvplugin_xlib.so.6.0.0
+9a3bf096169336eab8697ce709c56a44  usr/lib/libgvc.so.6.0.0
+6f38b976b638bbf19f49a93e61ac2980  usr/sbin/libgvc6-config-update
+c2f4b739a8378bf20f1a9c9181511789  usr/share/doc/libgvc6/changelog.Debian.gz
+96373f128d87992cdcee909673e567f2  usr/share/doc/libgvc6/changelog.gz
+88fcc95d43b755dcd428241f032d135f  usr/share/doc/libgvc6/copyright
+ac1029620ee5da55a81aaf7fad75a729  usr/share/lintian/overrides/libgvc6
+fe65ccfcd3f8558a63c72bc1c6e6260b  usr/share/man/man8/libgvc6-config-update.8.gz

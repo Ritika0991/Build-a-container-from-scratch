@@ -1,0 +1,15 @@
+a7366662afb87ffae5917317e69db633  usr/include/librsvg-2.0/librsvg/librsvg-enum-types.h
+21d0ba79b5ca50ad0081e681030395c0  usr/include/librsvg-2.0/librsvg/librsvg-features.h
+0e40008587b12bc4d64ba02ded8b767b  usr/include/librsvg-2.0/librsvg/rsvg-cairo.h
+538d7bc7801145b81fa34d9ac0081a21  usr/include/librsvg-2.0/librsvg/rsvg.h
+ff11ff7136aeac0bbe3578ed0d81276d  usr/lib/x86_64-linux-gnu/librsvg-2.a
+6b14b04383e1ce008183925c823709a6  usr/lib/x86_64-linux-gnu/pkgconfig/librsvg-2.0.pc
+eed264c141adad339f23ca6c40fdf8af  usr/share/doc/librsvg2-dev/AUTHORS
+496deff88a0e55095a541d21cd8be85b  usr/share/doc/librsvg2-dev/NEWS.gz
+7169b98392b79863379c2388d717c662  usr/share/doc/librsvg2-dev/README
+7e99b929be3d04fe538126f0d3117e2d  usr/share/doc/librsvg2-dev/TODO
+328bf7b34a558ee659735da830db4c6b  usr/share/doc/librsvg2-dev/changelog.Debian.gz
+815687ad00704d3ecee301564695d53f  usr/share/doc/librsvg2-dev/changelog.gz
+f0217ffae84006489504718ec9b1d76f  usr/share/doc/librsvg2-dev/copyright
+5afda2e0296c244127a8e9ebeacf2f8a  usr/share/gir-1.0/Rsvg-2.0.gir
+f6cba66a2db79753afad96940706b626  usr/share/vala/vapi/librsvg-2.0.vapi

@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libdb-5.3.a
+/usr/include
+/usr/include/db_185.h
+/usr/include/db.h
+/usr/share/doc/libdb5.3-dev
+/usr/lib/x86_64-linux-gnu/libdb.so
+/usr/lib/x86_64-linux-gnu/libdb.a

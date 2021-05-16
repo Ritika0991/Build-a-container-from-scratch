@@ -1,0 +1,11 @@
+312a39a4f95b6d3a5e1b5375c9cffb89  usr/bin/geoiplookup
+d6e140f6c29e9edcfab40ee6b5d0772d  usr/bin/geoiplookup6
+2397da656515cfbdc6f805cb528e5312  usr/lib/geoip/geoip-generator
+0dfd0e232e16588d4a1e279ad7006920  usr/lib/geoip/geoip-generator-asn
+01bb8dde95763ba8b961f0bd07d99da0  usr/lib/geoip/v4-to-v6-layout.pl
+890c19110109a4fd4d2b5f42ee6e1881  usr/share/doc/geoip-bin/changelog.Debian.gz
+9b63a4a31e863c4a2ca98b2502f25836  usr/share/doc/geoip-bin/changelog.gz
+0afbd8840a0f89debd7bb981dd729a24  usr/share/doc/geoip-bin/copyright
+9fdfbfab03b8d6f4a5ab124605befd7f  usr/share/lintian/overrides/geoip-bin
+3c6c7afc4fda5616ac71f69946143325  usr/share/man/man1/geoiplookup.1.gz
+549a079107f916bd050d3263f625dffc  usr/share/man/man1/geoiplookup6.1.gz

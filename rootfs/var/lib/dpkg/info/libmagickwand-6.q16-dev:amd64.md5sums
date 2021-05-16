@@ -1,0 +1,10 @@
+a9edf7d3d9622207a6fc1124a2295b8a  usr/lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/MagickWand-config
+74f30a7177f95559c9e3b6e860e7b002  usr/lib/x86_64-linux-gnu/ImageMagick-6.8.9/bin-Q16/Wand-config
+f6ec40e4c93d43c68ee4401bf8f6bfb6  usr/lib/x86_64-linux-gnu/libMagickWand-6.Q16.a
+28f1a8fd6c0ede9ce8fd154ce03fe548  usr/lib/x86_64-linux-gnu/libMagickWand-6.Q16.la
+55de5d34b2b9be1a008db24b530ae029  usr/lib/x86_64-linux-gnu/pkgconfig/MagickWand.pc
+6293d05ad423e60e5ee59facb10050c0  usr/lib/x86_64-linux-gnu/pkgconfig/Wand.pc
+9374ada69f2b7ca80d3b68c708c7804f  usr/share/doc/libmagickwand-6.q16-dev/NEWS.Debian.gz
+4ba0641deb6be369eed1c55350ae420e  usr/share/doc/libmagickwand-6.q16-dev/changelog.Debian.gz
+09adba7b98737e21abcba3a95dd98073  usr/share/doc/libmagickwand-6.q16-dev/changelog.gz
+15d4a4781f9a33db1cb2d3d84650eadd  usr/share/doc/libmagickwand-6.q16-dev/copyright

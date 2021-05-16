@@ -1,0 +1,10 @@
+d98ec1fe249d099804a98005be9762b9  usr/include/jerror.h
+81dc7157babc73fa0506c459f45393a8  usr/include/jmorecfg.h
+fd82e5ccc74d1fa9064d6d298785ea46  usr/include/jpegint.h
+086361a918ea001e27c96cb187904425  usr/include/jpeglib.h
+6f8fd52c0a1fc4a27536ab4cb6d5aab2  usr/include/x86_64-linux-gnu/jconfig.h
+6c17fbd90610828e6458af2295f8a115  usr/lib/x86_64-linux-gnu/libjpeg.a
+2adf83ab7f4266a7955e9e46ada7ad69  usr/lib/x86_64-linux-gnu/pkgconfig/libjpeg.pc
+8dc1c0a8a026fd14f9a9451bdd6d0e3d  usr/share/doc/libjpeg62-turbo-dev/changelog.Debian.gz
+6dbca6213731b789087d97e5bee97dea  usr/share/doc/libjpeg62-turbo-dev/changelog.gz
+19d3de9a3563049635d2a1d1d0bac891  usr/share/doc/libjpeg62-turbo-dev/copyright

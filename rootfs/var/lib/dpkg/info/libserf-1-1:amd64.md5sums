@@ -1,0 +1,6 @@
+c457fdb884c4608da24cf97153b8d758  usr/lib/x86_64-linux-gnu/libserf-1.so.1.3.0
+89f87b8f96661ac6a52bc30c3ed02573  usr/share/doc/libserf-1-1/NOTICE
+f6ada649067247bf45d88aa833ecb61b  usr/share/doc/libserf-1-1/changelog.Debian.gz
+e2120a301b2a3fbb3c3a67d67e5961a3  usr/share/doc/libserf-1-1/changelog.gz
+d00be8a1018b592bcde47bf8925be066  usr/share/doc/libserf-1-1/copyright
+8fbd6987327a211bd286a31c166920e9  usr/share/lintian/overrides/libserf-1-1

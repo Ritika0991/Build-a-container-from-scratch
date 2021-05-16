@@ -1,0 +1,12 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libkadm5clnt-mit9
+/usr/share/doc/libkadm5clnt-mit9/changelog.Debian.gz
+/usr/share/doc/libkadm5clnt-mit9/NEWS.Debian.gz
+/usr/share/doc/libkadm5clnt-mit9/copyright
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libkadm5clnt_mit.so.9.0
+/usr/lib/x86_64-linux-gnu/libkadm5clnt_mit.so.9
